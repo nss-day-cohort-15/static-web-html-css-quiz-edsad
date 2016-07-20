@@ -1,0 +1,76 @@
+h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 2em;
+    text-align: center;
+
+}
+h4 {
+    padding-left: .5em;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+h3 {
+    padding-left: 1.5em;
+}
+footer {
+    font-size: .75em;
+}
+header {
+    border: 1px dotted gray;
+}
+
+.cards {
+    border: 1px solid lightblue;
+    width: 30%;
+    display: inline-block;
+}
+
+
+.cards1 {
+    border: 1px solid lightblue;
+    width: 30%;
+    float: left;
+    /* padding: 10px; */
+    margin: 14px;
+}
+
+
+
+.special {
+    background-color: gray;
+    display: block;
+    color: yellow;
+    text-align: left;
+    padding-left: .25em;
+    padding-top: .25em;
+    padding-bottom: .25em;
+}
+
+img.byitself {
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    /*height: 300px;
+    padding-left: 1.5em;
+    padding-bottom: 1.5em;*/
+}
+.space {
+    line-height: 1.2em;
+}
+.pad {
+    padding: 0 .2em .4em .2em;
+    text-align: justify;
+    display: block;
+}
+.volume {
+    font-weight: bold;
+}
+p {
+    font-weight: normal;
+    font-weight: bold;
+    padding-left: 1em;
+    line-height: .5em;
+}
+
+
